@@ -1,7 +1,7 @@
 {
   "arch": [
     "amd64",
-    "arm7"
+    "armv7"
   ],
   "boot": "auto",
   "description": "TriliumNext Notes is a hierarchical note taking application with focus on building large personal knowledge bases.",
@@ -23,7 +23,7 @@
   "slug": "triliumnext",
   "startup": "services",
   "upstream": "v0.90.4",
-  "url": "https://github.com/jdeath/homeassistant-addons",
+  "url": "https://github.com/MrAyianaLex/hassio-addons",
   "version": "v0.90.4",
   "ingress": true,
   "ingress_port": 8080,
